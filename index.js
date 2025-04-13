@@ -1,4 +1,4 @@
-    const text = "TESLA"
+    const text = "Your text"
 
     function Hash(text){
     var data = "";
